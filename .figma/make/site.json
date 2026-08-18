@@ -1,0 +1,10 @@
+{
+  "description": "Teddy Tech Solutions offers a premium digital platform that integrates business strategy, branding, technology, and marketing for cohesive growth.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
